@@ -4,7 +4,7 @@ Simple jQuery plugin to achieve a parallax effect, uses requestAnimationFrame & 
 
 ```
 HTML
-&gt;div class="my-element" data-parallax data-speed="0.2"&lt;
+<div class="my-element" data-parallax data-speed="0.2">
 
 JS
 $([data-parallax]).jQueryParallax();
