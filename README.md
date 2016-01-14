@@ -7,5 +7,5 @@ HTML
 <div class="my-element" data-parallax data-speed="0.2">
 
 JS
-$([data-parallax]).jQueryParallax();
+$('[data-parallax]').jQueryParallax();
 ```
